@@ -1,7 +1,8 @@
-This Python script changes colors and brightness of your screen in Linux Lxqt desktop environment.
-Colors and brightness are customizable.
+This Python script changes the colours and brightness of your screen in the Linux Lxqt desktop environment.
 
-if you want to use it, you can download the script and run it with python3.
+The colours and brightness are customisable.
+
+To use it, download the script and run it with python3.
 
 ```bash
 python3 night_light.py
